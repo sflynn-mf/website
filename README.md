@@ -1,7 +1,3 @@
-# This is an h1 tag
-
-## This is an h2
-
 >I **really** like markdown for writing readme files because it's unbelievably easy!
 
 >This too looks like a testimonial. 
